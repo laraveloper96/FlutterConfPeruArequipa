@@ -5,7 +5,9 @@
 Esta aplicación móvil, desarrollada con Flutter, tiene como objetivo controlar un brazo robotico utilizando Flutter como interface para enviar los comandos que le permitiran al brazo robotico mover sus partes. 
 este proyecto fue presentado en la FlutterConf Perú Arequipa la cual fue una experiencia agradable para todos los asistentes, por estas razones estoy facilitando el acceso al codigo fuente del proyecto y estoy abierto a recibir comentarios y feedback.
 
-[![portada.png](https://i.postimg.cc/y8hDpDb1/portada.png)](https://postimg.cc/216jVSYM)
+<p align="center">
+<img src="https://i.postimg.cc/y8hDpDb1/portada.png">
+</p>
 
 **Descripción de la imagen:** Brazo robótico controlado por una aplicación con Flutter
 
