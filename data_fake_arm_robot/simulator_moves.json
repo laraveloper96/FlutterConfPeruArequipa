@@ -1,0 +1,145 @@
+{
+  "client_id": "Lara",
+  "steps": [
+    {
+      "moves": [
+        {
+          "command": "gripper",
+          "value": 90
+        },
+        {
+          "command": "wristPitch",
+          "value": 90
+        },
+        {
+          "command": "wristRoll",
+          "value": 90
+        },
+        {
+          "command": "elbow",
+          "value": 90
+        },
+        {
+          "command": "shoulder",
+          "value": 90
+        },
+        {
+          "command": "waist",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "moves": [
+        {
+          "command": "gripper",
+          "value": 90
+        },
+        {
+          "command": "wristPitch",
+          "value": 40
+        },
+        {
+          "command": "wristRoll",
+          "value": 90
+        },
+        {
+          "command": "elbow",
+          "value": 135
+        },
+        {
+          "command": "shoulder",
+          "value": 35
+        },
+        {
+          "command": "waist",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "moves": [
+        {
+          "command": "gripper",
+          "value": 10
+        },
+        {
+          "command": "wristPitch",
+          "value": 90
+        },
+        {
+          "command": "wristRoll",
+          "value": 90
+        },
+        {
+          "command": "elbow",
+          "value": 90
+        },
+        {
+          "command": "shoulder",
+          "value": 90
+        },
+        {
+          "command": "waist",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "moves": [
+        {
+          "command": "gripper",
+          "value": 10
+        },
+        {
+          "command": "wristPitch",
+          "value": 150
+        },
+        {
+          "command": "wristRoll",
+          "value": 90
+        },
+        {
+          "command": "elbow",
+          "value": 35
+        },
+        {
+          "command": "shoulder",
+          "value": 155
+        },
+        {
+          "command": "waist",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "moves": [
+        {
+          "command": "gripper",
+          "value": 70
+        },
+        {
+          "command": "wristPitch",
+          "value": 90
+        },
+        {
+          "command": "wristRoll",
+          "value": 90
+        },
+        {
+          "command": "elbow",
+          "value": 70
+        },
+        {
+          "command": "shoulder",
+          "value": 90
+        },
+        {
+          "command": "waist",
+          "value": 120
+        }
+      ]
+    }
+  ]
+}
