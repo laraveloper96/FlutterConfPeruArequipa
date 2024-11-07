@@ -1,0 +1,47 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dev",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            // tool args is to pass important values which will be available as environmental variables
+            "toolArgs": [
+                "--dart-define",
+                "WS=10.240.210.85",
+                "--dart-define",
+                "PORT=1883",
+            ]
+        },
+        {
+            "name": "qa",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            // tool args is to pass important values which will be available as environmental variables
+            "toolArgs": [
+                "--dart-define",
+                "WS=10.240.210.85",
+                "--dart-define",
+                "PORT=1883",
+            ]
+        },
+        {
+            "name": "stg",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            // tool args is to pass important values which will be available as environmental variables
+            "toolArgs": [
+                "--dart-define",
+                "WS=10.240.210.85",
+                "--dart-define",
+                "PORT=1883",
+            ]
+        },
+    ]
+}
