@@ -1,16 +1,27 @@
-# nimbuz_arm_robotic
+# FlutterConf Latam -Arequipa, Perú
 
-A new Flutter project.
+## Descripción
 
-## Getting Started
+Esta aplicación móvil, desarrollada con Flutter, tiene como objetivo controlar un brazo robotico utilizando Flutter como interface para enviar los comandos que le permitiran al brazo robotico mover sus partes. 
+este proyecto fue presentado en la FlutterConf Perú Arequipa la cual fue una experiencia agradable para todos los asistentes, por estas razones estoy facilitando el acceso al codigo fuente del proyecto y estoy abierto a recibir comentarios y feedback.
 
-This project is a starting point for a Flutter application.
+[![Brazo Robotico con Flutter](Flutter Conf Latam "Brazo Robotico con Flutter")](https://ibb.co/2F8KJPL "Brazo Robotico con Flutter")
 
-A few resources to get you started if this is your first Flutter project:
+## Datos de la conferencia
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Agenda:** https://flutterconflatam.dev/agenda
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Lugar:** Arequipa, Perú
+
+## Tecnologías utilizadas
+
+* **Flutter:** Framework para desarrollo de aplicaciones móviles multiplataforma.
+* **Dart:** Lenguaje de programación utilizado en Flutter.
+* **Arduino:** Arduino es una plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores.
+* **MQTT:** MQTT es un protocolo estándar de OASIS para aplicaciones de dispositivos conectados que proporciona mensajería bidireccional mediante una arquitectura de agente de publicación y suscripción.
+
+## Cómo ejecutar el proyecto
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone git@github.com:laraveloper96/FlutterConfPeruArequipa.git
