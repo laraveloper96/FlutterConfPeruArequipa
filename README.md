@@ -6,7 +6,7 @@ Esta aplicación móvil, desarrollada con Flutter, tiene como objetivo controlar
 este proyecto fue presentado en la FlutterConf Perú Arequipa la cual fue una experiencia agradable para todos los asistentes, por estas razones estoy facilitando el acceso al codigo fuente del proyecto y estoy abierto a recibir comentarios y feedback.
 
 <p align="center">
-<img src="https://i.postimg.cc/y8hDpDb1/portada.png">
+<img src="https://ibb.co/2F8KJPL">
 </p>
 
 **Descripción de la imagen:** Brazo robótico controlado por una aplicación con Flutter
